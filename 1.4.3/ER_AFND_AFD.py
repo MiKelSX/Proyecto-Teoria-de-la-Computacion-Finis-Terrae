@@ -1,3 +1,4 @@
+##Code made by Nicolas Arellano, edit Miguel Cornejo
 class Thomson:
     def __init__(self):
         self.K = []  # Lista de estados
