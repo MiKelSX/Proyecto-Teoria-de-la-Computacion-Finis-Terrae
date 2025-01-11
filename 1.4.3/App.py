@@ -1,3 +1,4 @@
+##Code made by Miguel Cornejo, Nicolas Arellano, Benjamin Sepulveda
 import customtkinter as ctk
 from tkinter import messagebox
 from PIL import Image, ImageTk
