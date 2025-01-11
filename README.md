@@ -83,8 +83,11 @@ ER a AFND a AFD.py
 
 ## ⚠️ Advertencia y Licencia
 
-Este proyecto fue desarrollado con fines académicos y no debe ser utilizado directamente en entornos de producción sin una evaluación técnica. **El uso del código está permitido siempre y cuando se dé el crédito correspondiente a los autores.**
+Este proyecto ha sido desarrollado con fines educativos para ilustrar conceptos y técnicas en el diseño de bases de datos. **No se autoriza el uso directo de este material para implementaciones reales sin una evaluación técnica y contextual adecuada.**
 
 ### Términos de Uso
-1. No se autoriza el uso comercial sin consentimiento previo.
-2. Cualquier implementación derivada debe respetar las normativas éticas y legales aplicables.
+1. Los autores no se hacen responsables por el uso indebido, modificaciones o riesgos asociados derivados de este proyecto.
+2. Este repositorio está disponible públicamente para promover el aprendizaje. Si se utiliza como base para otros trabajos, **se debe dar el debido crédito a al autor o autores originales citando este repositorio como referencia.**
+3. Cualquier implementación que derive de este código o diseño debe cumplir con los estándares éticos y legales aplicables en el contexto de uso.
+
+Se recomienda estudiar el código y adaptar cualquier implementación según las necesidades específicas, siempre evaluando su viabilidad y seguridad.
