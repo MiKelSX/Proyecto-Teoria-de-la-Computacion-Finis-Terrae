@@ -76,7 +76,6 @@ ER a AFND a AFD.py
 
 - **Nicolás Arellano**
 - **Miguel Cornejo**
-- **Benjamín Sepúlveda L**
 
 ## 🗓️ Fecha de Entrega
 24 de noviembre de 2024
