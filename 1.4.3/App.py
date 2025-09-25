@@ -1,4 +1,4 @@
-##Code made by Miguel Cornejo, Nicolas Arellano, Benjamin Sepulveda
+##Code made by Miguel Cornejo y Nicolas Arellano
 import customtkinter as ctk
 from tkinter import messagebox
 from PIL import Image, ImageTk
@@ -395,3 +395,4 @@ class ERApp(ctk.CTk):
 if __name__ == "__main__":
     app = ERApp()
     app.mainloop()
+
